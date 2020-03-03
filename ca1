@@ -1,9 +1,9 @@
 import lejos.hardware.Button;
-        import lejos.hardware.motor.Motor;
-        import lejos.hardware.port.SensorPort;
-        import lejos.hardware.sensor.*;
-        import lejos.robotics.SampleProvider;
-        import lejos.utility.Delay;
+import lejos.hardware.motor.Motor;
+import lejos.hardware.port.SensorPort;
+import lejos.hardware.sensor.*;
+import lejos.robotics.SampleProvider;
+import lejos.utility.Delay;
 
 public class ca1 {
     //constants for gyro
